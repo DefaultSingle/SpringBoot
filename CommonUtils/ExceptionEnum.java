@@ -2,7 +2,7 @@ package com.ly.SpringBoot.CommonUtils;
 
 
 /**
- * 枚举类
+ * 枚举类aa
  */
 public enum ExceptionEnum {
     ERRO_MESSAGE(500,"错误信息")
